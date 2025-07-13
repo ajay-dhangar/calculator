@@ -6,7 +6,7 @@ A modern, stylish, and functional calculator built with **React**, **TypeScript*
 
 ## 🌐 Live Demo
 
-🔗 View Demo [(http://localhost:5173)](http://localhost:5173)
+🔗 View Demo [(http://localhost:5173)](http://localhost:5173) <br />
 🧑‍💻 Created by [Ajay Dhangar](https://github.com/ajay-dhangar)
 
 ---
